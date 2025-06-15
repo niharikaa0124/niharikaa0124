@@ -38,12 +38,6 @@ I’m currently creating a **2D grid-based detective chase game** in Unity:
 
 ---
 
-## 📈 GitHub Stats
-
-![Niharikaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikaa123&show_icons=true&theme=radical)
-
----
-
 ## 🧠 Problem Solving
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Visit_My_Profile-orange)](https://leetcode.com/u/Niharikaa_agarwal/)
