@@ -9,7 +9,7 @@
 
 🔧 Skilled in Java, C++, JavaScript, HTML/CSS
 
-👾 Building a 2D Detective Chase Game in Unity
+✅ Completed a 2D Detective Chase Game in Unity
 
 💡 Always eager to learn and explore new technologies
 
