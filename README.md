@@ -4,24 +4,16 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
+🌱 Currently learning Backend Development (Node.js, SQL)
 
-- 🌱 Currently learning **Backend Development (Node.js, SQL)**
-- 🔧 Skilled in **Java, C++, JavaScript, HTML/CSS**
-- 👾 Creating a **2D detective chase game in Unity**
-- 💡 Always eager to learn and explore new technologies
-- 👩‍💻 Practicing DSA and algorithms using **Java** on LeetCode
+🔧 Skilled in Java, C++, JavaScript, HTML/CSS
 
----
+👾 Building a 2D Detective Chase Game in Unity
 
-## 🕹️ My Unity Project
+💡 Always eager to learn and explore new technologies
 
-I’m currently creating a **2D grid-based detective chase game** in Unity:
-
-- Designing the full **UI/UX**
-- Building **Tilemaps** for movement and obstacles
-- Implementing AI algorithms like **Dijkstra’s** and **Minimax**
-- Scripting game logic and animations using **C#**
+👩‍💻 Actively practicing DSA and Algorithms using Java on LeetCode
 
 ---
 
